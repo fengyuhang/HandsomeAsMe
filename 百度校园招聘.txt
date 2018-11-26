@@ -1,0 +1,13 @@
+官方首页面：http://dwz.cn/XpoFdepe
+百度面试问题介绍：https://blog.csdn.net/miao_9/article/details/54411993
+原型于类的实现：https://blog.csdn.net/m0_37846579/article/details/80278092  //说白了就是prototype 
+国内BAT招生：https://www.zhihu.com/question/26188893
+一些前端大牛的博客网址：http://caibaojian.com/some-fe
+c盘：C:\Users\DELL\Documents\
+美国快递直达：https://www.aplus100.com/Customer/User/ShoppingSit
+
+
+js将对象转换成json字符串：https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/JSON/stringify
+location.reload() ; 刷新界面
+
+indexDB api详细解释 ：https://www.jianshu.com/p/fa52b73e44c2
